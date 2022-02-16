@@ -1,5 +1,5 @@
 --------------------------------------
--- Player Vehicle For Spawners		--
+-- Player Vehicle For Spawners	ok	--
 --------------------------------------
 local playerVehicles = { }
 function createPlayerVehicle ( p, id, marker, warp )
